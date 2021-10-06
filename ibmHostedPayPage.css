@@ -1,0 +1,254 @@
+#paymentSelection .cardCvCHolder .cvcInfoLink:hover {
+	background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTMuMzMzIiBoZWlnaHQ9IjUzLjMzMyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48Y2xpcFBhdGggaWQ9ImEiPjxwYXRoIGQ9Ik0wIDQwaDQwVjBIMHY0MHoiLz48L2NsaXBQYXRoPjwvZGVmcz48Y2lyY2xlIHI9IjIxLjU3IiBjeT0iMjYuMzU3IiBjeD0iMjYuNzU3IiBmaWxsPSIjMTY5YTVhIi8+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIiB0cmFuc2Zvcm09Im1hdHJpeCgxLjMzMyAwIDAgLTEuMzMzIDAgNTMuMzMzKSI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIxLjc1MiAxMi44NGMtLjQ5MiAwLS44NC4wOC0xLjAzOC4yNDItLjIuMTYzLS4yOTguNDY2LS4yOTguOTE0IDAgLjE3OC4wMjguNDQuMDkuNzg3LjA2LjM0Ny4xMzIuNjU4LjIwOC45M2wuOTUgMy4zNjdjLjA5LjMxLjE1Ny42NS4xOTIgMS4wMi4wMzQuMzcyLjA1Mi42My4wNTIuNzc2IDAgLjcxLS4yNSAxLjI4Ny0uNzQ4IDEuNzMtLjQ5NC40NDUtMS4yMDMuNjY4LTIuMTIuNjY4LS41MSAwLTEuMDU0LS4wNzUtMS42MjMtLjI3Mi0xLjExNC0uMzktLjg2Ny0xLjM2Mi0uNjItMS4zNjIuNTAzIDAgLjg0LS4wODYgMS4wMTgtLjI1Ni4xNzgtLjE2OC4yNy0uNDcuMjctLjkwMiAwLS4yMzgtLjAzMy0uNTA1LS4wOS0uNzkzLS4wNTgtLjI5LS4xMjctLjU5OC0uMjEzLS45MmwtLjk1Ny0zLjM4M2ExMi43MSAxMi43MSAwIDAgMS0uMTgzLS45NTYgNi4xNiA2LjE2IDAgMCAxLS4wNTYtLjgyOGMwLS42OTQuMjU1LTEuMjY2Ljc2Ny0xLjcyLjUxMy0uNDUzIDEuMy0uODczIDIuMjI0LS44NzMuNiAwIDEuNDU2LjIyMyAyLjE1LjU1LjguMzc0IDEuMjIzIDEuMDc4LjgwOCAxLjQtLjI0LjE4Ni0uNTU0LS4xMi0uNzgzLS4xMm0tLjYwNCAxNi4xNTFjLS42MjIgMC0xLjE2LS4yMS0xLjYwNy0uNjI1LS40NDItLjQxNy0uNjY3LS45MTgtLjY2Ny0xLjUwNCAwLS41ODcuMjI1LTEuMDg4LjY2OC0xLjUuNDQ4LS40MTMuOTg2LS42MiAxLjYwOC0uNjJhMi4yNiAyLjI2IDAgMCAxIDEuNi42MmMuNDQ0LjQxMi42NjYuOTEzLjY2NiAxLjVzLS4yMjIgMS4wODgtLjY2NiAxLjUwNWEyLjI1NSAyLjI1NSAwIDAgMS0xLjYuNjI2Ii8+PHBhdGggZmlsbD0iIzE2OWE1YSIgZD0iTTIwIDVDMTEuNzMgNSA1IDExLjczIDUgMjBzNi43MyAxNSAxNSAxNSAxNS02LjczIDE1LTE1UzI4LjI3IDUgMjAgNW0wIDMyYy05LjM3NCAwLTE3LTcuNjI2LTE3LTE3IDAtOS4zNzQgNy42MjYtMTcgMTctMTcgOS4zNzQgMCAxNyA3LjYyNiAxNyAxNyAwIDkuMzc0LTcuNjI2IDE3LTE3IDE3Ii8+PC9nPjwvc3ZnPg==)
+}
+
+#paymentSelection .cardCvCHolder .cvcInfoLink {
+	background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNTMuMzMzIiB3aWR0aD0iNTMuMzMzIj48ZGVmcz48Y2xpcFBhdGggaWQ9ImEiPjxwYXRoIGQ9Ik0wIDQwaDQwVjBIMHoiLz48L2NsaXBQYXRoPjwvZGVmcz48ZyBjbGlwLXBhdGg9InVybCgjYSkiIHRyYW5zZm9ybT0ibWF0cml4KDEuMzMzIDAgMCAtMS4zMzMgMCA1My4zMzMpIiBmaWxsPSIjMTY5YTVhIj48cGF0aCBkPSJNMjEuNzUyIDEyLjg0Yy0uNDkyIDAtLjg0LjA4LTEuMDM4LjI0Mi0uMi4xNjMtLjI5OC40NjYtLjI5OC45MTQgMCAuMTc4LjAyOC40NC4wOS43ODcuMDYuMzQ3LjEzMi42NTguMjA4LjkzbC45NSAzLjM2N2MuMDkuMzEuMTU3LjY1LjE5MiAxLjAyLjAzNC4zNzIuMDUyLjYzLjA1Mi43NzYgMCAuNzEtLjI1IDEuMjg3LS43NDggMS43My0uNDk0LjQ0NS0xLjIwMy42NjgtMi4xMi42NjgtLjUxIDAtMS4wNTQtLjA3NS0xLjYyMy0uMjcyLTEuMTE0LS4zOS0uODY3LTEuMzYyLS42Mi0xLjM2Mi41MDMgMCAuODQtLjA4NiAxLjAxOC0uMjU2LjE3OC0uMTY4LjI3LS40Ny4yNy0uOTAyIDAtLjIzOC0uMDMzLS41MDUtLjA5LS43OTMtLjA1OC0uMjktLjEyNy0uNTk4LS4yMTMtLjkybC0uOTU3LTMuMzgzYTEyLjcxIDEyLjcxIDAgMCAxLS4xODMtLjk1NiA2LjE2IDYuMTYgMCAwIDEtLjA1Ni0uODI4YzAtLjY5NC4yNTUtMS4yNjYuNzY3LTEuNzIuNTEzLS40NTMgMS4zLS44NzMgMi4yMjQtLjg3My42IDAgMS40NTYuMjIzIDIuMTUuNTUuOC4zNzQgMS4yMjMgMS4wNzguODA4IDEuNC0uMjQuMTg2LS41NTQtLjEyLS43ODMtLjEybS0uNjA0IDE2LjE1MWMtLjYyMiAwLTEuMTYtLjIxLTEuNjA3LS42MjUtLjQ0Mi0uNDE3LS42NjctLjkxOC0uNjY3LTEuNTA0IDAtLjU4Ny4yMjUtMS4wODguNjY4LTEuNS40NDgtLjQxMy45ODYtLjYyIDEuNjA4LS42MmEyLjI2IDIuMjYgMCAwIDEgMS42LjYyYy40NDQuNDEyLjY2Ni45MTMuNjY2IDEuNXMtLjIyMiAxLjA4OC0uNjY2IDEuNTA1YTIuMjU1IDIuMjU1IDAgMCAxLTEuNi42MjYiLz48cGF0aCBkPSJNMjAgNUMxMS43MyA1IDUgMTEuNzMgNSAyMHM2LjczIDE1IDE1IDE1IDE1LTYuNzMgMTUtMTVTMjguMjcgNSAyMCA1bTAgMzJjLTkuMzc0IDAtMTctNy42MjYtMTctMTcgMC05LjM3NCA3LjYyNi0xNyAxNy0xNyA5LjM3NCAwIDE3IDcuNjI2IDE3IDE3IDAgOS4zNzQtNy42MjYgMTctMTcgMTciLz48L2c+PC9zdmc+)
+}
+
+*,
+:before,
+:after {
+	box-sizing: border-box
+}
+
+.header {
+	display: none !important
+}
+
+#paymentSelection {
+	border: 0
+}
+
+#paymentSelection .paymentHeader {
+	display: none
+}
+
+#paymentSelection .cardBody {
+	padding: 0
+}
+
+#paymentSelection .holder.cardCvCHolder {
+	margin-bottom: 0
+}
+
+#paymentSelection .expirationDateCvcholder {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-ms-flex-pack: justify;
+	justify-content: space-between
+}
+
+#paymentSelection .creditCardIcons {
+	margin-bottom: 1.25rem
+}
+
+#paymentSelection .creditCardIcons .cardLogos {
+	margin-bottom: .3125rem
+}
+
+#paymentSelection .creditCardIcons #securityLogoHolder .cardLogo:last-of-type,
+#paymentSelection .creditCardIcons .cardLogos .cardLogo:last-of-type {
+	margin-right: 0
+}
+
+#paymentSelection .paymentError.error {
+	font-weight: 300;
+	font-style: normal;
+	font-size: .875rem;
+	line-height: 1.3125rem;
+	border: 0;
+	background-color: #f6db00;
+	color: #181918;
+	text-align: left;
+	border-radius: 0;
+	padding: .3125rem .9375rem;
+	margin-bottom: 1.5625rem;
+	width: 100%
+}
+
+#paymentSelection .paymentError.error span {
+	padding: 0
+}
+
+#paymentSelection .holder,
+#paymentSelection .zipCodeHolder,
+#paymentSelection .nameOnCardHolder,
+#paymentSelection .buttonHolder,
+#paymentSelection .recaptchaContainer,
+#paymentSelection .expirationDateCvcholder {
+	width: 100%
+}
+
+#paymentSelection .inputContainer {
+	display: block;
+	border: none;
+	border-radius: 0;
+	padding: 0;
+	height: auto;
+	margin-bottom: 1.5625rem
+}
+
+#paymentSelection .inputContainer .labelContainer,
+#paymentSelection .inputContainer.filled.animated .labelContainer {
+	position: relative;
+	margin-top: 0;
+	margin-bottom: .375rem
+}
+
+#paymentSelection .inputContainer .labelContainer label,
+#paymentSelection .inputContainer.animated .labelContainer label {
+	font-weight: 700;
+	font-style: normal;
+	font-size: .875rem;
+	text-transform: capitalize;
+	position: relative;
+	color: #393a3b;
+	transition: none;
+	opacity: 1
+}
+
+#paymentSelection .inputContainer.valid:after {
+	bottom: 1.125rem;
+	right: .625rem;
+	top: auto
+}
+
+#paymentSelection .inputContainer.error::after,
+#paymentSelection .inputContainer.error::before {
+	display: none
+}
+
+#paymentSelection .inputContainer.error input {
+	border: .125rem solid #fec621
+}
+
+#paymentSelection .inputContainer.error input:focus {
+	border-width: 1px
+}
+
+#paymentSelection .inputContainer input {
+	padding: .625rem;
+	font-size: 1rem;
+	height: 2.5rem;
+	border: 1px solid #c3c3c3
+}
+
+#paymentSelection .inputContainer input:focus {
+	border-color: #169a5a;
+	outline: .125rem solid #a4ceff
+}
+
+#paymentSelection .inputContainer .placeHolderLabel {
+	visibility: visible !important;
+	position: absolute;
+	width: auto;
+	font-size: 1rem;
+	bottom: .75rem;
+	top: auto;
+	left: .625rem
+}
+
+#paymentSelection .inputContainer.filled .placeHolderLabel {
+	display: none
+}
+
+#paymentSelection .inputContainer+.errorMsg {
+	bottom: 100%;
+	left: 50%;
+	transform: translate(-50%, 0)
+}
+
+#paymentSelection .inputContainer.cvcInput.valid~.cvcInfoLinkHolder {
+	display: block
+}
+
+#paymentSelection .cardCvCHolder .cvcInfoLink {
+	background-size: cover;
+	right: 0;
+	top: -.1875rem;
+	height: 1.25rem;
+	width: 1.25rem
+}
+
+/* Removed for mobile */
+/* #paymentSelection #ccRecaptchaContainer>div {
+	margin: 0 auto
+} */
+
+.buttonHolder.processButtonsHolder {
+	margin: 1.875rem 0 0;
+	text-align: left
+}
+
+.buttonHolder.processButtonsHolder .right {
+	float: none
+}
+
+.continueButton.commandButton { /* id changed for mobile */
+	font-weight: 600;
+	font-style: normal;
+	height: 2.5rem;
+	/* width: 100%; */ /* removed for mobile */
+	padding: .625rem;
+	background-color: #169a5a;
+	color: #fff;
+	border-radius: 0;
+	border: none;
+	font-size: .875rem;
+	text-transform: uppercase;
+	line-height: normal;
+	transition: background-color 0.3s;
+	text-align: center;
+	/* -webkit-appearance: none; */ /* removed for mobile */
+	/* -moz-appearance: none */ /* removed for mobile */
+}
+
+.continueButton.commandButton:hover { /* id changed for mobile */
+	background-color: #15804d
+}
+
+.continueButton.commandButton:focus { /* id changed for mobile */
+	outline: .125rem solid #a4ceff;
+	outline-offset: -.125rem
+}
+
+@media (min-width: 29.8125em) {
+
+	#paymentSelection .creditCardIcons {
+		display: -ms-flexbox;
+		display: flex;
+		-ms-flex-wrap: wrap;
+		flex-wrap: wrap;
+		-ms-flex-pack: justify;
+		justify-content: space-between
+	}
+
+	#paymentSelection .creditCardIcons .cardLogos {
+		margin-bottom: 0
+	}
+
+	#paymentSelection .expirationDateHolder,
+	#paymentSelection .cardCvCHolder,
+	#paymentSelection .zipCodeHolder {
+		width: calc(50% - .9375rem)
+	}
+
+	/* Removed for mobile */
+	/* #paymentSelection #ccRecaptchaContainer>div {
+		margin: 0
+	} */
+
+	.continueButton.commandButton {
+		width: 15.625rem
+	}
+}
+
+/* Lines below added for mobile version of the page */
+
+#paymentSelection .creditCardIcons .cardLogos .cardLogo,
+#paymentSelection .creditCardIcons #securityLogoHolder .cardLogo {
+	height: 1.25rem;
+}
