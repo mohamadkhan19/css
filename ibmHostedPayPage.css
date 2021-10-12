@@ -193,7 +193,7 @@
 	height: 2.5rem;
 	/* width: 100%; */ /* removed for mobile */
 	padding: .625rem;
-	background-color: #ffffff;
+	background-color: #b81111;
 	color: #fff;
 	border-radius: 0;
 	border: none;
@@ -207,7 +207,7 @@
 }
 
 .continueButton.commandButton:hover { /* id changed for mobile */
-	background-color: #15804d
+	background-color: #b81111
 }
 
 .continueButton.commandButton:focus { /* id changed for mobile */
