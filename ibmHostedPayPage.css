@@ -193,7 +193,7 @@
 	height: 2.5rem;
 	/* width: 100%; */ /* removed for mobile */
 	padding: .625rem;
-	background-color: #b81111;
+	background-color: #169a5a;
 	color: #fff;
 	border-radius: 0;
 	border: none;
@@ -207,7 +207,7 @@
 }
 
 .continueButton.commandButton:hover { /* id changed for mobile */
-	background-color: #b81111
+	background-color: #15804d
 }
 
 .continueButton.commandButton:focus { /* id changed for mobile */
@@ -253,6 +253,6 @@
 	height: 1.25rem;
 }
 
-.instrumentInfo {
+.instrumentInfo img {
     height: 1.25rem;
 }
