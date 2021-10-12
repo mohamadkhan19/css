@@ -187,7 +187,12 @@
 	float: none
 }
 
-.continueButton.commandButton { /* id changed for mobile */
+.continueButton.commandButton,
+.mobileclose, .dialogBox .buttonHolder .commandButton,
+.dialogBox .buttonHolder .commandButton:hover,
+.dialogBox .buttonContainer .button,
+.dialogBox .buttonContainer .button:hover,
+.dialogBox .mobileclose.commandButton  { /* id changed for mobile */
 	font-weight: 600;
 	font-style: normal;
 	height: 2.5rem;
