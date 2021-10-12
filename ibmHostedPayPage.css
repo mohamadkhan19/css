@@ -275,3 +275,8 @@
     transition: none;
     opacity: 1;
 }
+
+.dialogText p, .dialogText img {
+    height: 10rem;
+    text-align: center;
+}
