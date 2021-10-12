@@ -266,3 +266,14 @@
 .instrumentInfo {
 	margin: 0;
 }
+
+.text {
+    font-weight: 700;
+    font-style: normal;
+    font-size: .875rem;
+    text-transform: capitalize;
+    position: relative;
+    color: #393a3b;
+    transition: none;
+    opacity: 1;
+}
