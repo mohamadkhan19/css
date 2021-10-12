@@ -264,7 +264,11 @@
 }
 
 .instrumentInfo {
-
+    background-color: #ffffff; 
+    border-bottom: 0px solid #cacaca; 
+    border-top: 0px solid #cacaca;
+    display: table;
+    margin: 0 0 1.25em -0.9375em;
 }
 
 .text {
