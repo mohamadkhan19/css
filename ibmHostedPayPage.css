@@ -244,6 +244,10 @@
 	.continueButton.commandButton {
 		width: 15.625rem
 	}
+
+	.instrumentInfo {
+		height: 1.25rem;
+	}
 }
 
 /* Lines below added for mobile version of the page */
@@ -253,6 +257,3 @@
 	height: 1.25rem;
 }
 
-.instrumentInfo {
-    height: 1.25rem;
-}
