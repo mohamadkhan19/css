@@ -248,7 +248,7 @@
 
 /* Lines below added for mobile version of the page */
 
-#paymentSelection .creditCardIcons .cardLogos .cardLogo,
+#paymentSelection .creditCardIcons .cardLogos .cardLogo, .instrumentInfo
 #paymentSelection .creditCardIcons #securityLogoHolder .cardLogo {
 	height: 1.25rem;
 }
